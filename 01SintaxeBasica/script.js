@@ -50,3 +50,5 @@ let Variavel_8 = "String"; //Armazena um pequeno texto ou letra
 
 
 
+
+
