@@ -1,4 +1,7 @@
 # LISTA DE EXERCÍCIOS
+
+## Data de entrega 12/02
+
 <ol>
     <li>Escreva um algoritmo que imprima os números de 1 a 10 usando um loop for.</li>
     <li>Escreva um algoritmo que imprima os números pares de 1 a 20 usando um loop for.</li>
