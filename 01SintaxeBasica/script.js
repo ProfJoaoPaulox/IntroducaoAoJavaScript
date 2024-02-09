@@ -41,8 +41,9 @@ alert("Clique em OK para continuar.");
 let Variavel_4 = true; //BOOLEANO
 let Variavel_5 = null; //VALOR NULO
 let Variavel_6; // undefined. Uma propriedade superior cujo valor é indefinido.(É QUANDO NÃO ATRIBUIMOS VALORES)
-let Variavel_7 = 12; /*  OU  */ let Variavel_8 = 1.5;
+let Variavel_7 = 12; /*  OU  */ let Variavel_8 = 1.5;  // Variável numérica
 let Variavel_8 = "String"; //Armazena um pequeno texto ou letra
+
 
 
 
